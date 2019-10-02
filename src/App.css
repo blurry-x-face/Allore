@@ -1,0 +1,22 @@
+.max-height {
+  height: 100vh;
+  padding-top: 40px;
+}
+.row {
+  margin-bottom: 0px;
+}
+.horizontal-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.input-field .prefix.active {
+  color: #6abf8f;
+}
+.login-main {
+  background: url(./assets/wave.png) no-repeat;
+  background-position: cover;
+}
+.brand-logo {
+  margin-top: 0px !important;
+}
